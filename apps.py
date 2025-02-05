@@ -205,3 +205,14 @@ if st.button("🚀 Generate Document"):
     else:
         st.warning("⚠ Please fill all fields!")
 
+
+
+def run():
+    
+    a = True
+    while a:
+        print("RUN - Successfully")
+        a = True
+        
+run()
+    
